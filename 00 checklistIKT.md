@@ -1,0 +1,22 @@
+ - [x] **[[01 Historie výpočetní techniky]]**
+ - [x]  **[[02 Číselné soustavy, kódování]]** - *chybí mi video*
+ - [x] **[[03 Hardware I]]**
+ - [ ] **[[04 Hardware II]]**
+ - [ ] **[[05 Operační systémy]]**
+ - [ ] **[[06 Software]]**
+ - [ ] **[[07 Počítačové sítě]]**
+ - [ ] **[[08 Bezpečnost]]**
+ - [ ] **[[09 Ergonomie při práci s počítačem]]**
+ - [ ] **[[10 Textový editor]]**
+ - [ ] **[[11 Tabulkový kalkulátor]]**
+ - [ ] **[[12 Prezentace]]**
+ - [ ] **[[13 Grafika]]**
+ - [ ] **[[14 Rastrová grafika]]**
+ - [ ] **[[15 Vektorová grafika, barevné modely]]**
+ - [ ] **[[16 Multimédia]]**
+ - [ ] **[[17 HTML]]**
+ - [ ] **[[18 Algoritmus]]**
+ - [ ] **[[19 Algoritimzace a programování I]]**
+ - [ ] **[[20 Algoritimzace a programování II]]**
+ - [ ] **[[21 Principy objektového programování]]**
+ - [ ] **[[22 Tvorba programu]]**
